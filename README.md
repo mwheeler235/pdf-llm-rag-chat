@@ -22,8 +22,8 @@ This Act is easy to find with a quick google search (https://www.congress.gov/bi
 
 The first thing I want to know is for the LLM to "Describe the primary objectives of the 'One Big Beautiful Bill Act'".
 
-Reponse:
-'''
+Response:
+```
 From the provided text, it seems that the "One Big Beautiful Bill Act" addresses several areas:
 
 1. **Education**: The bill may aim to improve education by providing modifications to low-income housing credit.
@@ -35,15 +35,16 @@ Given these aspects, some primary objectives of the "One Big Beautiful Bill Act"
 1. **Economic Growth**: To support economic development, particularly in low-income and rural areas.
 2. **Housing Development**: To encourage the construction or rehabilitation of affordable housing units through increased tax credits for developers.
 3. **Business Incentives**: To provide incentives for small manufacturing businesses to grow by adjusting their gross receipts thresholds and providing them with more favorable tax conditions.
-4. **Economic Stability**: By maintaining a stable economic environment, possibly through modifications in tax policies or financing requirements.'''
+4. **Economic Stability**: By maintaining a stable economic environment, possibly through modifications in tax policies or financing requirements.
+```
 
 Well, then I'm curious - "Would this Act harm any particlar groups of people, and if so which groups?"
 
-Reponse:
-'''
+Response:
+```
 1. **Low-income immigrants:** Those from lower socioeconomic backgrounds may struggle more with the increased fees.
 2. **Asylum seekers and nonpermanent residents:** These groups might face additional challenges in accessing legal services due to the non-waivability of fees.
 3. **Vulnerable populations within immigration applicant pools:** Individuals or families experiencing hardship, including those seeking asylum or nonpermanent residency, might be disproportionately affected by these changes.
-'''
+```
 
 Then, obviously I'm also curious - "Resulting from this Act, which groups will benefit most?"
