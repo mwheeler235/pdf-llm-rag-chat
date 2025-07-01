@@ -23,19 +23,27 @@ This Act is easy to find with a quick google search (https://www.congress.gov/bi
 The first thing I want to know is for the LLM to "Describe the primary objectives of this Act".
 
 Response:
-_Some potential objectives of this Act could include:
+```
+Some potential objectives of this Act could include:
 
 1. Improving transparency in pharmacy benefit management
 2. Enhancing accountability among pharmacy benefit managers
 3. Protecting patients' access to prescription medications
 4. Reducing costs associated with pharmacy benefit management
 5. Promoting fair business practices within the industry_
+```
 
 Additionally, "What is the most controversial objective within this Act?"
 
 Response:
 ```
-Based on the provided text, it appears that the most controversial objective within this Act may be the "PROHIBITING WAIVER OF COMMUNITY ENGAGEMENT REQUIREMENTS" section (subsection 44141(10)). This section restricts states from waiving certain community engagement requirements for individuals receiving Medicaid benefits. The controversy surrounding this section is likely due to its potential impact on individual freedoms and autonomy, as well as the possibility that it may be overly restrictive or burdensome.
+Based on the provided text, it appears that the most controversial objective
+within this Act may be the "PROHIBITING WAIVER OF COMMUNITY ENGAGEMENT REQUIREMENTS" 
+section (subsection 44141(10)). This section restricts states from waiving certain
+community engagement requirements for individuals receiving Medicaid benefits.
+The controversy surrounding this section is likely due to its potential impact on
+individual freedoms and autonomy, as well as the possibility that it may be overly restrictive
+or burdensome.
 ```
 
 Well, then I'm curious - "Resulting from this Act, which groups would be harmed most?"
