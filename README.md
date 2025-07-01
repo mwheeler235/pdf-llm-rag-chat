@@ -20,31 +20,52 @@ This Act is easy to find with a quick google search (https://www.congress.gov/bi
 
 ## Questions & Responses
 
-The first thing I want to know is for the LLM to "Describe the primary objectives of the 'One Big Beautiful Bill Act'".
+The first thing I want to know is for the LLM to "Describe the primary objectives of this Act".
 
 Response:
 ```
-From the provided text, it seems that the "One Big Beautiful Bill Act" addresses several areas:
+Some potential objectives of this Act could include:
 
-1. **Education**: The bill may aim to improve education by providing modifications to low-income housing credit.
-2. **Taxation and Business**: It touches upon tax-related issues, such as modifying the gross receipts threshold for small manufacturing businesses and adjusting tax-exempt bond financing requirements.
-3. **Economic Development**: By increasing the state housing credit ceiling for certain years, it could aim to stimulate economic growth in low-income areas.
-
-Given these aspects, some primary objectives of the "One Big Beautiful Bill Act" might include:
-
-1. **Economic Growth**: To support economic development, particularly in low-income and rural areas.
-2. **Housing Development**: To encourage the construction or rehabilitation of affordable housing units through increased tax credits for developers.
-3. **Business Incentives**: To provide incentives for small manufacturing businesses to grow by adjusting their gross receipts thresholds and providing them with more favorable tax conditions.
-4. **Economic Stability**: By maintaining a stable economic environment, possibly through modifications in tax policies or financing requirements.
+1. Improving transparency in pharmacy benefit management
+2. Enhancing accountability among pharmacy benefit managers
+3. Protecting patients' access to prescription medications
+4. Reducing costs associated with pharmacy benefit management
+5. Promoting fair business practices within the industry
 ```
 
-Well, then I'm curious - "Would this Act harm any particlar groups of people, and if so which groups?"
+Additionally, "What is the most controversial objective within this Act?"
 
 Response:
 ```
-1. **Low-income immigrants:** Those from lower socioeconomic backgrounds may struggle more with the increased fees.
-2. **Asylum seekers and nonpermanent residents:** These groups might face additional challenges in accessing legal services due to the non-waivability of fees.
-3. **Vulnerable populations within immigration applicant pools:** Individuals or families experiencing hardship, including those seeking asylum or nonpermanent residency, might be disproportionately affected by these changes.
+Based on the provided text, it appears that the most controversial objective within this Act may be the "PROHIBITING WAIVER OF COMMUNITY ENGAGEMENT REQUIREMENTS" section (subsection 44141(10)). This section restricts states from waiving certain community engagement requirements for individuals receiving Medicaid benefits. The controversy surrounding this section is likely due to its potential impact on individual freedoms and autonomy, as well as the possibility that it may be overly restrictive or burdensome.
 ```
 
-Then, obviously I'm also curious - "Resulting from this Act, which groups will benefit most?"
+Well, then I'm curious - "Resulting from this Act, which groups would be harmed most?"
+
+Response:
+```
+**Medicaid Expansion**
+
+* The groups that could be harmed are those who might not benefit from Medicaid expansion or might lose some of their current benefits:
+	+ Individuals with higher incomes who currently receive Medicaid benefits (if they exceed income limits, they might no longer qualify)
+	+ Those who have private health insurance and don't need Medicaid
+	+ Businesses or organizations that provide healthcare services to those who would no longer be covered by Medicaid
+
+**Work Requirements**
+
+* Low-income individuals and families with dependents:
+	+ The work requirements could make it more difficult for them to access healthcare, especially if they don't have stable employment or transportation.
+	+ Those who are elderly, disabled, or have caregiving responsibilities might find it challenging to meet the work requirements.
+
+**Changes to Medicaid**
+
+* Long-term care facilities and providers of in-home care services:
+	+ The changes to Medicaid's cost-sharing requirements for certain expansion individuals could lead to reduced reimbursement rates for these providers.
+	+ This might result in less funding for home- and community-based services, affecting the elderly or disabled individuals who rely on them.
+
+**Changes to the Healthcare System**
+
+* Undocumented immigrants and their families:
+	+ The Act does not provide a clear pathway for undocumented immigrants to access healthcare or Medicaid benefits.
+	+ This could leave them without access to essential medical care and exacerbate existing health disparities.
+```
