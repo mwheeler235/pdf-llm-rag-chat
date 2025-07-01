@@ -23,15 +23,13 @@ This Act is easy to find with a quick google search (https://www.congress.gov/bi
 The first thing I want to know is for the LLM to "Describe the primary objectives of this Act".
 
 Response:
-**
-Some potential objectives of this Act could include:
+***Some potential objectives of this Act could include:
 
 1. Improving transparency in pharmacy benefit management
 2. Enhancing accountability among pharmacy benefit managers
 3. Protecting patients' access to prescription medications
 4. Reducing costs associated with pharmacy benefit management
-5. Promoting fair business practices within the industry
-**
+5. Promoting fair business practices within the industry***
 
 Additionally, "What is the most controversial objective within this Act?"
 
