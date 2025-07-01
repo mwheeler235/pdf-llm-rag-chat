@@ -52,22 +52,29 @@ Response:
 ```
 **Medicaid Expansion**
 
-* The groups that could be harmed are those who might not benefit from Medicaid expansion or might lose some of their current benefits:
-	+ Individuals with higher incomes who currently receive Medicaid benefits (if they exceed income limits, they might no longer qualify)
+* The groups that could be harmed are those who might not benefit from Medicaid expansion or might
+lose some of their current benefits:
+	+ Individuals with higher incomes who currently receive Medicaid benefits (if they exceed
+	  income limits, they might no longer qualify)
 	+ Those who have private health insurance and don't need Medicaid
-	+ Businesses or organizations that provide healthcare services to those who would no longer be covered by Medicaid
+	+ Businesses or organizations that provide healthcare services to those who would no longer
+	  be covered by Medicaid
 
 **Work Requirements**
 
 * Low-income individuals and families with dependents:
-	+ The work requirements could make it more difficult for them to access healthcare, especially if they don't have stable employment or transportation.
-	+ Those who are elderly, disabled, or have caregiving responsibilities might find it challenging to meet the work requirements.
+	+ The work requirements could make it more difficult for them to access healthcare, especially
+	  if they don't have stable employment or transportation.
+	+ Those who are elderly, disabled, or have caregiving responsibilities might find it challenging
+	  to meet the work requirements.
 
 **Changes to Medicaid**
 
 * Long-term care facilities and providers of in-home care services:
-	+ The changes to Medicaid's cost-sharing requirements for certain expansion individuals could lead to reduced reimbursement rates for these providers.
-	+ This might result in less funding for home- and community-based services, affecting the elderly or disabled individuals who rely on them.
+	+ The changes to Medicaid's cost-sharing requirements for certain expansion individuals could lead
+	  to reduced reimbursement rates for these providers.
+	+ This might result in less funding for home- and community-based services, affecting the elderly
+	  or disabled individuals who rely on them.
 
 **Changes to the Healthcare System**
 
