@@ -1,0 +1,10 @@
+json 
+langchain 
+langchain_community 
+langchain_text_splitters 
+langchain_core 
+langchain_ollama 
+langchain_openai 
+ragas 
+datasets 
+pandas
