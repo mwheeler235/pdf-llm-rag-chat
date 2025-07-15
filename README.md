@@ -19,3 +19,5 @@ This Act is easy to find with a quick google search (https://www.congress.gov/bi
 5. Llama 3.1 LLM: Large language model created by Meta
   
 6. Ragas: a library that provides tools to supercharge the evaluation of Large Language Model (LLM) applications. It is designed to help you evaluate your LLM applications with ease and confidence.
+
+<img src="https://github.com/mwheeler235/pdf-llm-rag-chat/blob/main/img/rag_architecture.png" width=100% height=100%>
