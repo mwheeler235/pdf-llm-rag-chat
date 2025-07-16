@@ -21,3 +21,5 @@ This Act is easy to find with a quick google search (https://www.congress.gov/bi
 6. Ragas: a library that provides tools to supercharge the evaluation of Large Language Model (LLM) applications. It is designed to help you evaluate your LLM applications with ease and confidence.
 
 <img src="https://github.com/mwheeler235/pdf-llm-rag-chat/blob/main/images/rag_architecture.png" width=100% height=100%>
+
+Check out my [Medium Blog](https://medium.com/@mateo.wheeler/big-beautiful-rag-analysis-with-langchain-ollama-chromadb-meta-llama-and-ragas-e47fc04e7610)!
